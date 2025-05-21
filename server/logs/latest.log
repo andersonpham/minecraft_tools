@@ -141,3 +141,4 @@
 [15:40:27] [Thread-54/INFO]: [ELCI] Starting input thread
 [15:40:27] [Thread-55/INFO]: [ELCI] Starting output thread!
 [15:40:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:59538.
+[15:49:19] [Thread-2/INFO]: Stopping server
