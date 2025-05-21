@@ -1,0 +1,117 @@
+[13:05:08] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:05:09] [ServerMain/INFO]: Loaded 7 recipes
+[13:05:10] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[13:05:10] [Server thread/INFO]: Loading properties
+[13:05:11] [Server thread/INFO]: This server is running CraftBukkit version 3714-Spigot-b31949f-3ae9069 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
+[13:05:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:05:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:05:11] [Server thread/INFO]: Debug logging is disabled
+[13:05:11] [Server thread/INFO]: Default game type: CREATIVE
+[13:05:11] [Server thread/INFO]: Generating keypair
+[13:05:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:05:11] [Server thread/INFO]: Using epoll channel type
+[13:05:12] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[13:05:14] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
+[13:05:14] [Server thread/WARN]: Legacy plugin ELCI v1.12.1 does not specify an api-version.
+[13:05:14] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
+[13:05:14] [Server thread/INFO]: [ELCI] Loading ELCI v1.12.1
+[13:05:14] [Server thread/INFO]: Preparing level "world"
+[13:05:14] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:05:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:05:14] [Server thread/INFO]: Mob Spawn Range: 6
+[13:05:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[13:05:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:05:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[13:05:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:05:14] [Server thread/INFO]: Max TNT Explosions: 100
+[13:05:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:05:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[13:05:14] [Server thread/INFO]: View Distance: 10
+[13:05:14] [Server thread/INFO]: Simulation Distance: 10
+[13:05:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:05:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:05:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:05:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:05:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:05:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:05:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:05:20] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:05:20] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:05:20] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:05:20] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[13:05:20] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:05:20] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:05:20] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:05:20] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[13:05:20] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:05:20] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:05:20] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:05:20] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[13:05:21] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[13:05:21] [Worker-Main-15/INFO]: Preparing spawn area: 25%
+[13:05:22] [Worker-Main-6/INFO]: Preparing spawn area: 56%
+[13:05:22] [Worker-Main-12/INFO]: Preparing spawn area: 68%
+[13:05:22] [Worker-Main-15/INFO]: Preparing spawn area: 68%
+[13:05:22] [Worker-Main-15/INFO]: Preparing spawn area: 68%
+[13:05:23] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[13:05:23] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[13:05:24] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[13:05:24] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[13:05:25] [Worker-Main-5/INFO]: Preparing spawn area: 90%
+[13:05:25] [Worker-Main-14/INFO]: Preparing spawn area: 95%
+[13:05:25] [Server thread/INFO]: Time elapsed: 11746 ms
+[13:05:25] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
+[13:05:25] [Server thread/INFO]: [SetSpawn] Enabled!
+[13:05:25] [Server thread/INFO]: [ELCI] Enabling ELCI v1.12.1
+[13:05:25] [Server thread/INFO]: [ELCI] Using host:port - 0.0.0.0:4711
+[13:05:25] [Server thread/INFO]: [ELCI] ThreadListener Started
+[13:05:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:05:25] [Server thread/INFO]: Done (12.255s)! For help, type "help"
+[13:06:26] [User Authenticator #1/INFO]: UUID of player youssef639992 is 6e4f6a20-2b42-410f-a00c-4c23d09abd9c
+[13:06:26] [Server thread/INFO]: Welcome youssef639992[m
+[13:06:26] [Server thread/INFO]: youssef639992 joined the game
+[13:06:26] [Server thread/INFO]: youssef639992[/[0:0:0:0:0:0:0:1%0]:34512] logged in with entity id 65 at ([world]3137.1007846055527, 69.0, -51.356493203743234)
+[13:08:08] [Thread-16/INFO]: [ELCI] Starting input thread
+[13:08:08] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:41282.
+[13:08:08] [Thread-17/INFO]: [ELCI] Starting output thread!
+[13:08:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:41282.
+[13:10:05] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:36610.
+[13:10:05] [Thread-21/INFO]: [ELCI] Starting output thread!
+[13:10:05] [Thread-20/INFO]: [ELCI] Starting input thread
+[13:10:05] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:36610.
+[13:11:18] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:38986.
+[13:11:18] [Thread-25/INFO]: [ELCI] Starting output thread!
+[13:11:18] [Thread-24/INFO]: [ELCI] Starting input thread
+[13:11:18] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:38986.
+[13:13:50] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:50778.
+[13:13:50] [Thread-27/INFO]: [ELCI] Starting input thread
+[13:13:50] [Thread-28/INFO]: [ELCI] Starting output thread!
+[13:13:50] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:50778.
+[13:18:08] [Thread-31/INFO]: [ELCI] Starting input thread
+[13:18:08] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:47630.
+[13:18:08] [Thread-32/INFO]: [ELCI] Starting output thread!
+[13:18:08] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:47630.
+[13:18:54] [Thread-33/INFO]: [ELCI] Starting input thread
+[13:18:54] [Thread-10/INFO]: [ELCI] Opened connection to/127.0.0.1:34374.
+[13:18:54] [Thread-34/INFO]: [ELCI] Starting output thread!
+[13:18:54] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:34374.
+[13:19:05] [Thread-2/INFO]: Stopping server
+[13:19:05] [Thread-2/INFO]: Saving players
