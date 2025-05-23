@@ -1,144 +1,220 @@
-[15:24:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:24:18] [ServerMain/INFO]: Loaded 7 recipes
-[15:24:19] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[15:24:19] [Server thread/INFO]: Loading properties
-[15:24:19] [Server thread/INFO]: This server is running CraftBukkit version 3714-Spigot-b31949f-3ae9069 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
-[15:24:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:24:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:24:19] [Server thread/INFO]: Debug logging is disabled
-[15:24:19] [Server thread/INFO]: Default game type: CREATIVE
-[15:24:19] [Server thread/INFO]: Generating keypair
-[15:24:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:24:19] [Server thread/INFO]: Using epoll channel type
-[15:24:20] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[15:24:22] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
-[15:24:22] [Server thread/WARN]: Legacy plugin ELCI v1.12.1 does not specify an api-version.
-[15:24:22] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
-[15:24:22] [Server thread/INFO]: [ELCI] Loading ELCI v1.12.1
-[15:24:22] [Server thread/INFO]: Preparing level "world"
-[15:24:22] [Server thread/INFO]: -------- World Settings For [world] --------
-[15:24:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:24:22] [Server thread/INFO]: Max TNT Explosions: 100
-[15:24:22] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:24:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:24:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:24:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:24:22] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:24:22] [Server thread/INFO]: Mob Spawn Range: 6
-[15:24:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:24:22] [Server thread/INFO]: View Distance: 10
-[15:24:22] [Server thread/INFO]: Simulation Distance: 10
-[15:24:22] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:24:22] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:24:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:24:22] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:24:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:24:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:24:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:24:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[15:24:25] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:24:25] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:24:25] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:24:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[15:24:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[15:24:25] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:24:26] [Worker-Main-12/INFO]: Preparing spawn area: 2%
-[15:24:26] [Worker-Main-9/INFO]: Preparing spawn area: 15%
-[15:24:26] [Worker-Main-14/INFO]: Preparing spawn area: 48%
-[15:24:27] [Worker-Main-14/INFO]: Preparing spawn area: 69%
-[15:24:28] [Worker-Main-2/INFO]: Preparing spawn area: 72%
-[15:24:28] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[15:24:28] [Worker-Main-13/INFO]: Preparing spawn area: 83%
-[15:24:29] [Worker-Main-3/INFO]: Preparing spawn area: 85%
-[15:24:29] [Worker-Main-14/INFO]: Preparing spawn area: 92%
-[15:24:30] [Server thread/INFO]: Time elapsed: 7856 ms
-[15:24:30] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
-[15:24:30] [Server thread/INFO]: [SetSpawn] Enabled!
-[15:24:30] [Server thread/INFO]: [ELCI] Enabling ELCI v1.12.1
-[15:24:30] [Server thread/INFO]: [ELCI] Using host:port - 0.0.0.0:4711
-[15:24:30] [Server thread/INFO]: [ELCI] ThreadListener Started
-[15:24:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:24:30] [Server thread/INFO]: Done (8.282s)! For help, type "help"
-[15:25:39] [User Authenticator #1/INFO]: UUID of player youssef639992 is 6e4f6a20-2b42-410f-a00c-4c23d09abd9c
-[15:25:39] [Server thread/INFO]: Welcome youssef639992[m
-[15:25:39] [Server thread/INFO]: youssef639992 joined the game
-[15:25:39] [Server thread/INFO]: youssef639992[/[0:0:0:0:0:0:0:1%0]:55582] logged in with entity id 65 at ([world]3091.1729318247617, 68.0, -37.62306340564328)
-[15:25:58] [Thread-15/INFO]: [ELCI] Starting input thread
-[15:25:58] [Thread-16/INFO]: [ELCI] Starting output thread!
-[15:25:58] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:43696.
-[15:25:58] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:43696.
-[15:26:54] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:58236.
-[15:26:54] [Thread-17/INFO]: [ELCI] Starting input thread
-[15:26:54] [Thread-18/INFO]: [ELCI] Starting output thread!
-[15:26:55] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:58236.
-[15:30:35] [Thread-23/INFO]: [ELCI] Starting input thread
-[15:30:35] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:37896.
-[15:30:35] [Thread-24/INFO]: [ELCI] Starting output thread!
-[15:30:35] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:37896.
-[15:31:21] [Thread-26/INFO]: [ELCI] Starting output thread!
-[15:31:21] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:36796.
-[15:31:21] [Thread-25/INFO]: [ELCI] Starting input thread
-[15:31:21] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:36796.
-[15:31:47] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:58850.
-[15:31:47] [Thread-27/INFO]: [ELCI] Starting input thread
-[15:31:47] [Thread-28/INFO]: [ELCI] Starting output thread!
-[15:31:47] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:58850.
-[15:32:30] [Thread-30/INFO]: [ELCI] Starting output thread!
-[15:32:30] [Thread-29/INFO]: [ELCI] Starting input thread
-[15:32:30] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:57758.
-[15:32:30] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:57758.
-[15:34:01] [Thread-34/INFO]: [ELCI] Starting input thread
-[15:34:01] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:36030.
-[15:34:01] [Thread-35/INFO]: [ELCI] Starting output thread!
-[15:34:01] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:36030.
-[15:34:56] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:51316.
-[15:34:56] [Thread-37/INFO]: [ELCI] Starting input thread
-[15:34:56] [Thread-38/INFO]: [ELCI] Starting output thread!
-[15:34:56] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51316.
-[15:36:41] [Thread-40/INFO]: [ELCI] Starting output thread!
-[15:36:41] [Thread-39/INFO]: [ELCI] Starting input thread
-[15:36:41] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:55034.
-[15:36:41] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:55034.
-[15:37:15] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:47098.
-[15:37:15] [Thread-42/INFO]: [ELCI] Starting output thread!
-[15:37:15] [Thread-41/INFO]: [ELCI] Starting input thread
-[15:37:16] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:47098.
-[15:37:46] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:45926.
-[15:37:46] [Thread-45/INFO]: [ELCI] Starting input thread
-[15:37:46] [Thread-46/INFO]: [ELCI] Starting output thread!
-[15:37:46] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:45926.
-[15:38:30] [Thread-48/INFO]: [ELCI] Starting output thread!
-[15:38:30] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:53452.
-[15:38:30] [Thread-47/INFO]: [ELCI] Starting input thread
-[15:38:31] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:53452.
-[15:38:59] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:37230.
-[15:38:59] [Thread-50/INFO]: [ELCI] Starting output thread!
-[15:38:59] [Thread-49/INFO]: [ELCI] Starting input thread
-[15:38:59] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:37230.
-[15:39:35] [Thread-52/INFO]: [ELCI] Starting input thread
-[15:39:35] [Thread-53/INFO]: [ELCI] Starting output thread!
-[15:39:35] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:43998.
-[15:39:35] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:43998.
-[15:40:27] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:59538.
-[15:40:27] [Thread-54/INFO]: [ELCI] Starting input thread
-[15:40:27] [Thread-55/INFO]: [ELCI] Starting output thread!
-[15:40:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:59538.
-[15:49:19] [Thread-2/INFO]: Stopping server
+[18:46:33] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:46:35] [ServerMain/INFO]: Loaded 7 recipes
+[18:46:36] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[18:46:36] [Server thread/INFO]: Loading properties
+[18:46:36] [Server thread/INFO]: This server is running CraftBukkit version 3714-Spigot-b31949f-3ae9069 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
+[18:46:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:46:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:46:36] [Server thread/INFO]: Debug logging is disabled
+[18:46:36] [Server thread/INFO]: Default game type: CREATIVE
+[18:46:36] [Server thread/INFO]: Generating keypair
+[18:46:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:46:37] [Server thread/INFO]: Using epoll channel type
+[18:46:37] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18:46:40] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
+[18:46:40] [Server thread/WARN]: Legacy plugin ELCI v1.12.1 does not specify an api-version.
+[18:46:40] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
+[18:46:40] [Server thread/INFO]: [ELCI] Loading ELCI v1.12.1
+[18:46:40] [Server thread/INFO]: Preparing level "world"
+[18:46:40] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:46:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:46:40] [Server thread/INFO]: Mob Spawn Range: 6
+[18:46:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:46:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:46:40] [Server thread/INFO]: Max TNT Explosions: 100
+[18:46:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:46:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:46:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:46:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:46:40] [Server thread/INFO]: View Distance: 10
+[18:46:40] [Server thread/INFO]: Simulation Distance: 10
+[18:46:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:46:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:46:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:46:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:46:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:46:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:46:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:46:46] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:46:46] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:46:46] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:46:46] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:46:46] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[18:46:46] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:46:46] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:46:46] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[18:46:46] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:46:46] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[18:46:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 12%
+[18:46:47] [Worker-Main-6/INFO]: Preparing spawn area: 35%
+[18:46:48] [Worker-Main-6/INFO]: Preparing spawn area: 62%
+[18:46:49] [Worker-Main-14/INFO]: Preparing spawn area: 68%
+[18:46:49] [Worker-Main-13/INFO]: Preparing spawn area: 68%
+[18:46:49] [Worker-Main-1/INFO]: Preparing spawn area: 72%
+[18:46:50] [Worker-Main-3/INFO]: Preparing spawn area: 81%
+[18:46:51] [Worker-Main-14/INFO]: Preparing spawn area: 84%
+[18:46:51] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[18:46:51] [Worker-Main-15/INFO]: Preparing spawn area: 86%
+[18:46:52] [Worker-Main-1/INFO]: Preparing spawn area: 94%
+[18:46:52] [Server thread/INFO]: Time elapsed: 11150 ms
+[18:46:52] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
+[18:46:52] [Server thread/INFO]: [SetSpawn] Enabled!
+[18:46:52] [Server thread/INFO]: [ELCI] Enabling ELCI v1.12.1
+[18:46:52] [Server thread/INFO]: [ELCI] Using host:port - 0.0.0.0:4711
+[18:46:52] [Server thread/INFO]: [ELCI] ThreadListener Started
+[18:46:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:46:52] [Server thread/INFO]: Done (11.740s)! For help, type "help"
+[18:49:47] [User Authenticator #1/INFO]: UUID of player youssef639992 is 6e4f6a20-2b42-410f-a00c-4c23d09abd9c
+[18:49:47] [Server thread/INFO]: Welcome youssef639992[m
+[18:49:47] [Server thread/INFO]: youssef639992 joined the game
+[18:49:47] [Server thread/INFO]: youssef639992[/[0:0:0:0:0:0:0:1%0]:34496] logged in with entity id 65 at ([world]3075.4858937234717, 68.0, -31.824825966720194)
+[19:28:37] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:46560.
+[19:28:37] [Thread-33/INFO]: [ELCI] Starting input thread
+[19:28:37] [Thread-34/INFO]: [ELCI] Starting output thread!
+[19:28:37] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:46560.
+[19:29:03] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:44252.
+[19:29:03] [Thread-36/INFO]: [ELCI] Starting input thread
+[19:29:03] [Thread-37/INFO]: [ELCI] Starting output thread!
+[19:29:03] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:44252.
+[19:29:37] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:49762.
+[19:29:37] [Thread-38/INFO]: [ELCI] Starting input thread
+[19:29:37] [Thread-39/INFO]: [ELCI] Starting output thread!
+[19:29:37] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:49762.
+[19:30:30] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:54074.
+[19:30:30] [Thread-41/INFO]: [ELCI] Starting input thread
+[19:30:30] [Thread-42/INFO]: [ELCI] Starting output thread!
+[19:30:30] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:54074.
+[19:31:19] [Thread-44/INFO]: [ELCI] Starting output thread!
+[19:31:19] [Thread-43/INFO]: [ELCI] Starting input thread
+[19:31:19] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:58762.
+[19:31:19] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:58762.
+[19:32:03] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:51308.
+[19:32:03] [Thread-47/INFO]: [ELCI] Starting output thread!
+[19:32:03] [Thread-46/INFO]: [ELCI] Starting input thread
+[19:32:04] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51308.
+[20:30:00] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:58842.
+[20:30:00] [Thread-101/INFO]: [ELCI] Starting input thread
+[20:30:00] [Thread-102/INFO]: [ELCI] Starting output thread!
+[20:30:01] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:58842.
+[20:32:43] [Thread-110/INFO]: [ELCI] Starting output thread!
+[20:32:43] [Thread-109/INFO]: [ELCI] Starting input thread
+[20:32:43] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:50740.
+[20:32:44] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:50740.
+[20:42:23] [Thread-121/INFO]: [ELCI] Starting output thread!
+[20:42:23] [Thread-120/INFO]: [ELCI] Starting input thread
+[20:42:23] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:40394.
+[20:42:24] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:40394.
+[20:42:44] [Thread-122/INFO]: [ELCI] Starting input thread
+[20:42:44] [Thread-123/INFO]: [ELCI] Starting output thread!
+[20:42:44] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:52438.
+[20:42:45] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:52438.
+[20:43:02] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:41962.
+[20:43:02] [Thread-124/INFO]: [ELCI] Starting input thread
+[20:43:02] [Thread-125/INFO]: [ELCI] Starting output thread!
+[20:43:03] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:41962.
+[20:45:51] [Thread-127/INFO]: [ELCI] Starting output thread!
+[20:45:51] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:40502.
+[20:45:51] [Thread-126/INFO]: [ELCI] Starting input thread
+[20:45:52] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:40502.
+[20:46:41] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:42238.
+[20:46:41] [Thread-131/INFO]: [ELCI] Starting output thread!
+[20:46:41] [Thread-130/INFO]: [ELCI] Starting input thread
+[20:46:42] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:42238.
+[20:50:57] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:35068.
+[20:50:57] [Thread-135/INFO]: [ELCI] Starting output thread!
+[20:50:57] [Thread-134/INFO]: [ELCI] Starting input thread
+[20:50:58] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:35068.
+[21:03:32] [Thread-140/INFO]: [ELCI] Starting input thread
+[21:03:32] [Thread-141/INFO]: [ELCI] Starting output thread!
+[21:03:32] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:54018.
+[21:03:33] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:54018.
+[21:12:17] [Server thread/INFO]: youssef639992 issued server command: /weather clear
+[21:12:17] [Server thread/INFO]: [youssef639992: Set the weather to clear]
+[21:13:37] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:35220.
+[21:13:37] [Thread-149/INFO]: [ELCI] Starting input thread
+[21:13:37] [Thread-150/INFO]: [ELCI] Starting output thread!
+[21:13:38] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:35220.
+[21:14:41] [Thread-151/INFO]: [ELCI] Starting input thread
+[21:14:41] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60842.
+[21:14:41] [Thread-152/INFO]: [ELCI] Starting output thread!
+[21:14:42] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60842.
+[21:15:27] [Thread-153/INFO]: [ELCI] Starting input thread
+[21:15:27] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:32990.
+[21:15:27] [Thread-154/INFO]: [ELCI] Starting output thread!
+[21:15:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:32990.
+[21:17:23] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:52748.
+[21:17:23] [Thread-157/INFO]: [ELCI] Starting input thread
+[21:17:23] [Thread-158/INFO]: [ELCI] Starting output thread!
+[21:17:24] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:52748.
+[21:22:42] [Thread-164/INFO]: [ELCI] Starting input thread
+[21:22:42] [Thread-165/INFO]: [ELCI] Starting output thread!
+[21:22:42] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:41296.
+[21:22:44] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:41296.
+[21:23:03] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:60812.
+[21:23:03] [Thread-166/INFO]: [ELCI] Starting input thread
+[21:23:03] [Thread-167/INFO]: [ELCI] Starting output thread!
+[21:23:05] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:60812.
+[21:25:45] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:43358.
+[21:25:45] [Thread-170/INFO]: [ELCI] Starting input thread
+[21:25:45] [Thread-171/INFO]: [ELCI] Starting output thread!
+[21:25:47] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:43358.
+[21:31:34] [Thread-176/INFO]: [ELCI] Starting output thread!
+[21:31:34] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:47460.
+[21:31:34] [Thread-175/INFO]: [ELCI] Starting input thread
+[21:31:36] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:47460.
+[21:43:36] [Thread-180/INFO]: [ELCI] Starting input thread
+[21:43:36] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:39314.
+[21:43:36] [Thread-181/INFO]: [ELCI] Starting output thread!
+[21:43:38] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:39314.
+[21:45:05] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:54056.
+[21:45:05] [Thread-184/INFO]: [ELCI] Starting input thread
+[21:45:05] [Thread-185/INFO]: [ELCI] Starting output thread!
+[21:45:07] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:54056.
+[21:46:48] [Thread-186/INFO]: [ELCI] Starting input thread
+[21:46:48] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:56970.
+[21:46:48] [Thread-187/INFO]: [ELCI] Starting output thread!
+[21:46:50] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:56970.
+[21:51:26] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:58530.
+[21:51:26] [Thread-191/INFO]: [ELCI] Starting input thread
+[21:51:26] [Thread-192/INFO]: [ELCI] Starting output thread!
+[21:51:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:58530.
+[21:51:44] [Thread-193/INFO]: [ELCI] Starting input thread
+[21:51:44] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:37342.
+[21:51:44] [Thread-194/INFO]: [ELCI] Starting output thread!
+[21:51:46] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:37342.
+[21:53:06] [Thread-197/INFO]: [ELCI] Starting input thread
+[21:53:06] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:54858.
+[21:53:06] [Thread-198/INFO]: [ELCI] Starting output thread!
+[21:53:07] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:54858.
+[22:02:30] [Thread-202/INFO]: [ELCI] Starting output thread!
+[22:02:30] [Thread-201/INFO]: [ELCI] Starting input thread
+[22:02:30] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:34604.
+[22:02:32] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:34604.
+[22:03:55] [Thread-204/INFO]: [ELCI] Starting output thread!
+[22:03:55] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:47104.
+[22:03:55] [Thread-203/INFO]: [ELCI] Starting input thread
+[22:03:56] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:47104.
+[22:04:15] [Thread-205/INFO]: [ELCI] Starting input thread
+[22:04:15] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:46412.
+[22:04:15] [Thread-206/INFO]: [ELCI] Starting output thread!
+[22:04:17] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:46412.
